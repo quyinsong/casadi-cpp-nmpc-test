@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/test.dir/test.cpp.o CMakeFiles/test.dir/comfun.cpp.o CMakeFiles/test.dir/car_model.cpp.o CMakeFiles/test.dir/nmpc1.cpp.o  -o bin/test  -Wl,-rpath,/usr/local/lib -lpython3.8 /usr/local/lib/libcasadi.so.3.7 

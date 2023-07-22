@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/qys/casadi_nmpc_car_sim/build",
+  "command": "/usr/bin/c++   -I/usr/include/python3.8  -g   -std=gnu++11 -o CMakeFiles/test.dir/test.cpp.o -c /home/qys/casadi_nmpc_car_sim/test.cpp",
+  "file": "/home/qys/casadi_nmpc_car_sim/test.cpp"
+},
+{
+  "directory": "/home/qys/casadi_nmpc_car_sim/build",
+  "command": "/usr/bin/c++   -I/usr/include/python3.8  -g   -std=gnu++11 -o CMakeFiles/test.dir/comfun.cpp.o -c /home/qys/casadi_nmpc_car_sim/comfun.cpp",
+  "file": "/home/qys/casadi_nmpc_car_sim/comfun.cpp"
+},
+{
+  "directory": "/home/qys/casadi_nmpc_car_sim/build",
+  "command": "/usr/bin/c++   -I/usr/include/python3.8  -g   -std=gnu++11 -o CMakeFiles/test.dir/car_model.cpp.o -c /home/qys/casadi_nmpc_car_sim/car_model.cpp",
+  "file": "/home/qys/casadi_nmpc_car_sim/car_model.cpp"
+},
+{
+  "directory": "/home/qys/casadi_nmpc_car_sim/build",
+  "command": "/usr/bin/c++   -I/usr/include/python3.8  -g   -std=gnu++11 -o CMakeFiles/test.dir/nmpc1.cpp.o -c /home/qys/casadi_nmpc_car_sim/nmpc1.cpp",
+  "file": "/home/qys/casadi_nmpc_car_sim/nmpc1.cpp"
+}
+]
