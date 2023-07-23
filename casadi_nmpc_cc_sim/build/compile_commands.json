@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/qys/mySim/build",
+  "command": "/usr/bin/c++   -I/home/qys/mySim/commonfun/inc -I/home/qys/mySim/wamv14/inc -I/home/qys/mySim/pidtest/inc -I/home/qys/mySim/backsteppingtest/inc -I/home/qys/mySim/esotest/inc -I/home/qys/mySim/myserver/inc -I/usr/include/python3.8  -g   -std=gnu++11 -o CMakeFiles/test.dir/pidtest/main2.cpp.o -c /home/qys/mySim/pidtest/main2.cpp",
+  "file": "/home/qys/mySim/pidtest/main2.cpp"
+},
+{
+  "directory": "/home/qys/mySim/build",
+  "command": "/usr/bin/c++   -I/home/qys/mySim/commonfun/inc -I/home/qys/mySim/wamv14/inc -I/home/qys/mySim/pidtest/inc -I/home/qys/mySim/backsteppingtest/inc -I/home/qys/mySim/esotest/inc -I/home/qys/mySim/myserver/inc -I/usr/include/python3.8  -g   -std=gnu++11 -o CMakeFiles/test.dir/pidtest/src/pidcontroller.cpp.o -c /home/qys/mySim/pidtest/src/pidcontroller.cpp",
+  "file": "/home/qys/mySim/pidtest/src/pidcontroller.cpp"
+},
+{
+  "directory": "/home/qys/mySim/build",
+  "command": "/usr/bin/c++   -I/home/qys/mySim/commonfun/inc -I/home/qys/mySim/wamv14/inc -I/home/qys/mySim/pidtest/inc -I/home/qys/mySim/backsteppingtest/inc -I/home/qys/mySim/esotest/inc -I/home/qys/mySim/myserver/inc -I/usr/include/python3.8  -g   -std=gnu++11 -o CMakeFiles/test.dir/wamv14/src/asv.cpp.o -c /home/qys/mySim/wamv14/src/asv.cpp",
+  "file": "/home/qys/mySim/wamv14/src/asv.cpp"
+},
+{
+  "directory": "/home/qys/mySim/build",
+  "command": "/usr/bin/c++   -I/home/qys/mySim/commonfun/inc -I/home/qys/mySim/wamv14/inc -I/home/qys/mySim/pidtest/inc -I/home/qys/mySim/backsteppingtest/inc -I/home/qys/mySim/esotest/inc -I/home/qys/mySim/myserver/inc -I/usr/include/python3.8  -g   -std=gnu++11 -o CMakeFiles/test.dir/esotest/src/eso.cpp.o -c /home/qys/mySim/esotest/src/eso.cpp",
+  "file": "/home/qys/mySim/esotest/src/eso.cpp"
+},
+{
+  "directory": "/home/qys/mySim/build",
+  "command": "/usr/bin/c++   -I/home/qys/mySim/commonfun/inc -I/home/qys/mySim/wamv14/inc -I/home/qys/mySim/pidtest/inc -I/home/qys/mySim/backsteppingtest/inc -I/home/qys/mySim/esotest/inc -I/home/qys/mySim/myserver/inc -I/usr/include/python3.8  -g   -std=gnu++11 -o CMakeFiles/test.dir/backsteppingtest/src/bstcontroller.cpp.o -c /home/qys/mySim/backsteppingtest/src/bstcontroller.cpp",
+  "file": "/home/qys/mySim/backsteppingtest/src/bstcontroller.cpp"
+},
+{
+  "directory": "/home/qys/mySim/build",
+  "command": "/usr/bin/c++   -I/home/qys/mySim/commonfun/inc -I/home/qys/mySim/wamv14/inc -I/home/qys/mySim/pidtest/inc -I/home/qys/mySim/backsteppingtest/inc -I/home/qys/mySim/esotest/inc -I/home/qys/mySim/myserver/inc -I/usr/include/python3.8  -g   -std=gnu++11 -o CMakeFiles/test.dir/commonfun/src/comfun.cpp.o -c /home/qys/mySim/commonfun/src/comfun.cpp",
+  "file": "/home/qys/mySim/commonfun/src/comfun.cpp"
+},
+{
+  "directory": "/home/qys/mySim/build",
+  "command": "/usr/bin/c++   -I/home/qys/mySim/commonfun/inc -I/home/qys/mySim/wamv14/inc -I/home/qys/mySim/pidtest/inc -I/home/qys/mySim/backsteppingtest/inc -I/home/qys/mySim/esotest/inc -I/home/qys/mySim/myserver/inc -I/usr/include/python3.8  -g   -std=gnu++11 -o CMakeFiles/test.dir/myserver/src/myserver.cpp.o -c /home/qys/mySim/myserver/src/myserver.cpp",
+  "file": "/home/qys/mySim/myserver/src/myserver.cpp"
+},
+{
+  "directory": "/home/qys/mySim/build",
+  "command": "/usr/bin/c++   -I/home/qys/mySim/commonfun/inc -I/home/qys/mySim/wamv14/inc -I/home/qys/mySim/pidtest/inc -I/home/qys/mySim/backsteppingtest/inc -I/home/qys/mySim/esotest/inc -I/home/qys/mySim/myserver/inc -I/usr/include/python3.8  -g   -std=gnu++11 -o CMakeFiles/test.dir/myserver/src/mysocket.cpp.o -c /home/qys/mySim/myserver/src/mysocket.cpp",
+  "file": "/home/qys/mySim/myserver/src/mysocket.cpp"
+}
+]

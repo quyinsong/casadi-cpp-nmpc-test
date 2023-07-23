@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../commonfun/inc/comfun.h
+eigen3/Eigen/Dense
+-
+iostream
+-
+matplotlibcpp.h
+-
+random
+-
+chrono
+-
+
+../nmpc/inc/nmpc1.h
+casadi/casadi.hpp
+-
+iostream
+-
+comfun.h
+../nmpc/inc/comfun.h
+
+/home/qys/casadi_nmpc_cc_sim/nmpc/src/nmpc1.cpp
+nmpc1.h
+/home/qys/casadi_nmpc_cc_sim/nmpc/src/nmpc1.h
+

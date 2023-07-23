@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/myASV.h
+iostream
+-
+eigen3/Eigen/Dense
+-
+
+/home/qys/mySim/src/myASV.cpp
+myASV.h
+/home/qys/mySim/src/myASV.h
+

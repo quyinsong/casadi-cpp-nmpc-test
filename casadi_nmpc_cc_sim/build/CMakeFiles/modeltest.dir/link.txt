@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/modeltest.dir/test/main1.cpp.o  -o modeltest 
